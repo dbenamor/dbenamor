@@ -3,7 +3,7 @@
 <div align="center" display="inline-block">
   <a href="https://github.com/dbenamor">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dbenamor&show_icons=true&layout=compact&theme=material-palenight&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbenamor&langs_count=9&layout=compact&theme=material-palenight&include_all_commits=true" />
   </a>
 </div>
 <br> 
