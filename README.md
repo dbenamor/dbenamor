@@ -11,7 +11,7 @@
 ## 
 #### 💻 Minhas skills
 <div align="left" display="inline-block">
-  <img title="Javascript" alt="Js" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <code><img title="Javascript" alt="Js" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img title="Typescript" alt="Ts" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img title="React" alt="React" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <code><img title="Bootstrap" alt="Bootstrap" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></code>
