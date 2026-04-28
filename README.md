@@ -11,9 +11,9 @@
 ## 
 #### 💻 Minhas skills
 <div align="left" display="inline-block">
-  <code><img title="Javascript" alt="Js" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
-  <code><img title="Typescript" alt="Ts" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>
-  <code><img title="React" alt="React" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+  <img title="Javascript" alt="Js" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img title="Typescript" alt="Ts" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img title="React" alt="React" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <code><img title="Bootstrap" alt="Bootstrap" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></code>
   <code><img title="Html" alt="HTML" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
   <code><img title="Css" alt="CSS" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
